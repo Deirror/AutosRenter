@@ -3,7 +3,7 @@
 Description
 -
 
-An old Java project, which shows basic skills with DBs and creating commands to execute. 
+An old Java project of mine, which shows basic skills like working with DBs and creating commands to execute. 
 
 This application is related with managing automobile rental process. 
 The project's purpose is to create a standart way to communicate with a DB, using CLI.
